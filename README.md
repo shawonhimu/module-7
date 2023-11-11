@@ -11,8 +11,8 @@ now, to open vs-code or editor in this directory
 
 <<<======== To Create A controller called 'UserController' Command  ==========>>>
 
-Command: php artisan make:Controller UserController
+=> Command: php artisan make:Controller UserController
 
 <<<========  Laravel development server Command  ==========>>>
 
-Command: php artisan serve
+=> Command: php artisan serve
